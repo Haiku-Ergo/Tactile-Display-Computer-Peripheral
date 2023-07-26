@@ -5,7 +5,7 @@ Right now there are just some fabrication files, but I'll add some math document
 I haven't finished the project so I dont have much software yet.
 
 
-I want this information to be free to anyone who wants it. I'm putting an MIT license on it.
+I want this information to be free to anyone who wants it. I'm putting the least  license on it.
 
 # Summary of Project:
 - Represent pixels with pins
